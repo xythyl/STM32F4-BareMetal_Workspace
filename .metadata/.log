@@ -159,3 +159,121 @@ COM11
 
 !ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-19 12:34:21.379
 !MESSAGE port: COM11
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-19 17:08:12.654
+!MESSAGE Indexed '5_uart_tx' (5 sources, 60 headers) in 1.5 sec: 2,913 declarations; 4,001 references; 3 unresolved inclusions; 30 syntax errors; 707 unresolved names (9.3%)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-19 19:06:01.966
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+COM3
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-19 19:06:01.968
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-19 19:06:01.969
+!MESSAGE port: COM3
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-20 03:31:32.428
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+COM3
+COM11
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-20 03:31:32.429
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-20 03:31:32.429
+!MESSAGE port: COM3
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-20 03:31:32.429
+!MESSAGE port: COM11
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-20 06:00:08.247
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+COM3
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-20 06:00:08.258
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-20 06:00:08.275
+!MESSAGE port: COM3
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 21:28:16.365
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+COM3
+COM11
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 21:28:16.366
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 21:28:16.366
+!MESSAGE port: COM3
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 21:28:16.366
+!MESSAGE port: COM11
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:11.552
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+COM3
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:11.553
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:11.553
+!MESSAGE port: COM3
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:17.017
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+COM3
+COM11
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:17.017
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:17.018
+!MESSAGE port: COM3
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:17.018
+!MESSAGE port: COM11
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:25.462
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+COM3
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:25.463
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:25.463
+!MESSAGE port: COM3
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:37.494
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+COM3
+COM11
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:37.495
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:37.495
+!MESSAGE port: COM3
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-24 22:21:37.495
+!MESSAGE port: COM11
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-24 22:25:27.896
+!MESSAGE Indexed '6_uart_printf' (3 sources, 62 headers) in 0.517 sec: 3,293 declarations; 5,502 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.023%)
