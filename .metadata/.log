@@ -277,3 +277,9 @@ COM11
 
 !ENTRY org.eclipse.cdt.core 1 0 2026-02-24 22:25:27.896
 !MESSAGE Indexed '6_uart_printf' (3 sources, 62 headers) in 0.517 sec: 3,293 declarations; 5,502 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.023%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-24 22:45:48.552
+!MESSAGE Indexed '7_uart_modular' (3 sources, 64 headers) in 0.415 sec: 3,439 declarations; 5,646 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.022%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-24 22:52:14.059
+!MESSAGE Indexed '8_uart_rx' (4 sources, 65 headers) in 0.477 sec: 3,439 declarations; 5,647 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.022%)
