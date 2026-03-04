@@ -1444,3 +1444,49 @@ COM11
 
 !ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-27 00:52:42.466
 !MESSAGE port: COM11
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-03-03 01:57:27.954
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+COM3
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-03-03 01:57:28.003
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-03-03 01:57:28.004
+!MESSAGE port: COM3
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-03-03 20:45:20.028
+!MESSAGE Indexed '12_timers' (6 sources, 66 headers) in 6.75 sec: 3,048 declarations; 4,327 references; 4 unresolved inclusions; 30 syntax errors; 709 unresolved names (8.8%)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-03-03 21:00:02.787
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+COM3
+COM11
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-03-03 21:00:02.787
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-03-03 21:00:02.788
+!MESSAGE port: COM3
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-03-03 21:00:02.788
+!MESSAGE port: COM11
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2026-03-03 21:00:19.512
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 27 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2026-03-03 21:00:19.513
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2026-03-03 21:00:19.516
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 27 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2026-03-03 21:00:19.516
+!MESSAGE Existing sessions are:
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-03-03 21:06:37.748
+!MESSAGE Indexed '13_output_compare' (10 sources, 71 headers) in 1.14 sec: 3,132 declarations; 4,565 references; 4 unresolved inclusions; 30 syntax errors; 709 unresolved names (8.4%)
