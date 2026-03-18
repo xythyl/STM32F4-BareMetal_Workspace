@@ -1,14 +1,21 @@
-21:32:05 **** Incremental Build of configuration Debug for project 13_output_compare ****
+22:39:54 **** Incremental Build of configuration Debug for project 14_input_capture ****
 make -j16 all 
-arm-none-eabi-size  13_output_compare.elf 
+arm-none-eabi-gcc "../Src/tim.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DSTM32F446xx -c -I../Inc -I"C:/Users/Xx-M4/OneDrive/Documents/Programming Projects/STM32/STM32F466/STM32F4-BareMetal_Workspace/chip_headers/CMSIS/Device/ST/STM32F4xx/Include" -I"C:/Users/Xx-M4/OneDrive/Documents/Programming Projects/STM32/STM32F466/STM32F4-BareMetal_Workspace/chip_headers/CMSIS/Include" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/tim.d" -MT"Src/tim.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/tim.o"
+arm-none-eabi-gcc -o "14_input_capture.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Xx-M4\OneDrive\Documents\Programming Projects\STM32\STM32F466\STM32F4-BareMetal_Workspace\14_input_capture\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="14_input_capture.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 14_input_capture.elf
+ 
+arm-none-eabi-size  14_input_capture.elf 
+arm-none-eabi-objdump -h -S 14_input_capture.elf  > "14_input_capture.list"
    text	   data	    bss	    dec	    hex	filename
-    860	      0	   1568	   2428	    97c	13_output_compare.elf
+   1008	      0	   1568	   2576	    a10	14_input_capture.elf
 Finished building: default.size.stdout
  
-21:32:12 **** Incremental Build of configuration Debug for project 13_output_compare ****
+Finished building: 14_input_capture.list
+ 
+22:40:07 **** Incremental Build of configuration Debug for project 14_input_capture ****
 make -j16 all 
-arm-none-eabi-size  13_output_compare.elf 
+arm-none-eabi-size  14_input_capture.elf 
    text	   data	    bss	    dec	    hex	filename
-    860	      0	   1568	   2428	    97c	13_output_compare.elf
+   1008	      0	   1568	   2576	    a10	14_input_capture.elf
 Finished building: default.size.stdout
  
